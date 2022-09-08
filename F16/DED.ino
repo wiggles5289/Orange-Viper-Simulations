@@ -4,6 +4,7 @@
 //Updated for DCS 2.7 on 08SEP2022
 //Inverted text function is untested
 //REQUIRED FOR COMPILING: U8G2, U8glib, and dcs-bios-arduino library
+//Updates Found at: https://github.com/wiggles5289/Orange-Viper-Simulations/blob/main/F16/DED.ino 
 
 /*TODO: 
  *INTEGRATE DCSBIOS LIB INTO SKETCH 
